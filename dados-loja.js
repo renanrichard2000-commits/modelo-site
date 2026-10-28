@@ -138,7 +138,7 @@ const DADOS_LOJA = {
       preco: 389.90,
       precoAntigo: null,
       imagem: "imagens/macacao-linho-preto.jpg",
-      destaque: " Mais Desejado",
+      destaque: "Mais Desejado",
       novo: true,
       tamanhos: ["P", "M", "G", "GG"],
       cores: ["Preto", "Linho Cru"],
